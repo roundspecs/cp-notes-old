@@ -1,4 +1,4 @@
-Rating of problems in each division
+# Rating of problems in each division
 |Div|A(x100)|B(x100)|C(x100)|D(x100)|E(x100)|F(x100)|G(x100)|H(x100)|
 |---|-|-|-|-|-|-|-|-|
 |1|13-16| 17-21|19-24|
