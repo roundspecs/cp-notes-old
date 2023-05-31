@@ -6,3 +6,6 @@
 - [Check how many times an integer divides another](how_many_times_an_int_divides_another.md)
 ## Miscellaneous
 - [Rating for DivX](rating_for_div_x.md)
+
+# Contribution
+I would love it, if you contribute to this open source note containing all sorts of tips and tricks for competitive programming. Fixing typos are also appreciated :)
