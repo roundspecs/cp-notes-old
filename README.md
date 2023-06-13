@@ -3,6 +3,7 @@
 - [Binary Search](binary_search.md)
 ## Tips and Tricks
 - [Newline at the end of row](new_line_at_the_end_or_row.md)
+- [Bypassing Comparator Function for Sorting](bypassing_comparator.md)
 ## Maths
 - [Check how many times an integer divides another](how_many_times_an_int_divides_another.md)
 - [Series sum](series_sum.md)
