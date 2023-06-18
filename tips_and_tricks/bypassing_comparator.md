@@ -1,5 +1,9 @@
 # Bypassing Comparator Function for Sorting
-Most often we can avoid making a comparator function and solve the problem more easily. The key is to manipulate the array in such a way that the default ascending sort does the work of descending sort too. The idea is demonstrated in the following examples.
+The default sort function in C++ sorts the array in ascending order. If you follow the following steps it will sort it in descending order:\
+**Step-1:** `for(int&it:a) it*=-1;`\
+**Step-2:** `sort(a,a+n);`\
+**Step-3:** `for(int&it:a) it*=-1;`
+> Read [Problem 1](#problem-1) and [Problem 2](#problem-2) to understand the concept, and red [Problem 3](#problem-3) to understand why it is applicablle
 
 ## Problem 1
 Sort an array of $n$ integers in ascending order
@@ -45,6 +49,23 @@ $P_1\space Q_1$\
 $P_2\space Q_2$\
 $...$\
 $P_n\space Q_n$
+
+### Example
+Input
+```
+5
+2 4
+2 3
+1 0
+1 1
+```
+Output
+```
+1 1
+1 0
+2 4
+2 3
+```
 
 ### Solution
 ```c++

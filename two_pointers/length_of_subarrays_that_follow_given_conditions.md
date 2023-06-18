@@ -1,21 +1,12 @@
 # Basic Format
 In the following code sections,\
-`size` is the size of the window\
+`len` is the size of the window\
 `start` is the start of the window\
-`end` is the end of the window\
-The window is represented by `[start,end)` or `[start,start+size)`
-## Type 1
+The window is represented by `[start,start+len)`
 ```c++
-for(int start=0, size; start<n; start+=size) {
-  for(size=0; start+size<n && condition; size++);
-  // code...
-}
-```
-
-## Type 2
-```c++
-for(int start=0, end; start<n; start=end) {
-  for(end=start; end<n && condition; end++);
+for(int start=0, len; start<n; start+=len) {
+  len=0;
+  while(start+len<n && condition) len++;
   // code...
 }
 ```
