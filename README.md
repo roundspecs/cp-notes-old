@@ -2,14 +2,21 @@
 This repository is a journal of every thing I leaned about competitive programming.
 
 # Table of Content
+## Array
+- [Subarray](array/subarray.md)
+- [Subsequence](array/subsequence.md)
 ## Searching
 - [Binary Search](searching/binary_search.md)
 ## Tips and Tricks
 - [Newline at the end of row](tips_and_tricks/new_line_at_the_end_or_row.md)
 - [Bypassing Comparator Function for Sorting](tips_and_tricks/bypassing_comparator.md)
+- [Unknow number of inputs](tips_and_tricks/unknown_num_of_input.md)
 ## Maths
+- [Number of digits in an integer](maths/number_of_digits.md)
 - [Check how many times an integer divides another](maths/how_many_times_an_int_divides_another.md)
 - [Series sum](maths/series_sum.md)
+- [Comparing floating point numbers](maths/comparing_floating_point_num.md)
+- [Modular Arithmetic](maths/modular_arithmetic.md)
 ## 2 Pointer
 - [Find maximum length of a segment that follows given condition(s)](two_pointers/length_of_subarrays_that_follow_given_conditions.md.md)
 ## Miscellaneous
