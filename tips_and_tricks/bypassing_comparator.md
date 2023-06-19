@@ -3,7 +3,7 @@ The default sort function in C++ sorts the array in ascending order. If you foll
 **Step-1:** `for(int&it:a) it*=-1;`\
 **Step-2:** `sort(a,a+n);`\
 **Step-3:** `for(int&it:a) it*=-1;`
-> Read [Problem 1](#problem-1) and [Problem 2](#problem-2) to understand the concept, and red [Problem 3](#problem-3) to understand why it is applicablle
+> Read [Problem 1](#problem-1) and [Problem 2](#problem-2) to understand the concept, and red [Problem 3](#problem-3) to understand why it is applicable
 
 ## Problem 1
 Sort an array of $n$ integers in ascending order

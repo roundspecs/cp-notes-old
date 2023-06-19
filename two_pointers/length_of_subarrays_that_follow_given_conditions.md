@@ -24,7 +24,7 @@ $A_1\space A_2\space ...\space A_n$
 
 ## Example:
 | Input                | Output |
-| -------------------- | ------ |
+| :------------------- | :------|
 | 8<br>1 2 2 1 2 2 2 1 | 3      |
 | 8<br>2 2 2 1 1 1 1 2 | 4      |
 | 7<br>1 2 3 4 1 2 3   | 1      |
@@ -33,10 +33,11 @@ $A_1\space A_2\space ...\space A_n$
 ```c++
 int n; cin>>n;
 int a[n]; for(int &it: a) cin>>it;
-int mx_cnt=0;
-for(int i=0, j; i<n; i=j) {
-  for(j=i; j<n && a[i]==a[j]; j++);
-  mx_cnt=max(cnt,mx_cnt);
+int mx_len=0;
+for(int i=0, len; i<n; i+=len) {
+  len=0;
+  while(i+len<n && a[i]==a[i+len]) len++;
+  mx_len=max(len,mx_len);
 }
 ```
 
