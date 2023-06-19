@@ -5,6 +5,7 @@ This repository is a journal of every thing I leaned about competitive programmi
 ## Array
 - [Subarray](array/subarray.md)
 - [Subsequence](array/subsequence.md)
+- [2D Array](array/2d_array.md)
 ## Searching
 - [Binary Search](searching/binary_search.md)
 ## Tips and Tricks
