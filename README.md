@@ -1,6 +1,10 @@
 # CP Notes
 This repository is a journal of every thing I leaned about competitive programming.
 
+# TODOs
+- Maximum subarray sum - [link](array/max_subarray_sum.md)
+- Is bypassing comparator worth it?
+
 # Table of Content
 ## Array
 - [Subarray](array/subarray.md)
@@ -8,6 +12,9 @@ This repository is a journal of every thing I leaned about competitive programmi
 - [2D Array](array/2d_array.md)
 ## Searching
 - [Binary Search](searching/binary_search.md)
+## Sorting
+- [Comparator Function](sorting/comp_func.md)
+- [Inversion](sorting/inversion.md)
 ## Tips and Tricks
 - [Newline at the end of row](tips_and_tricks/new_line_at_the_end_or_row.md)
 - [Bypassing Comparator Function for Sorting](tips_and_tricks/bypassing_comparator.md)
