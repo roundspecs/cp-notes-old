@@ -13,6 +13,7 @@ This repository is a journal of every thing I leaned about competitive programmi
 - dm kenneth
 - algo cormen
 - [BACS](https://www.youtube.com/watch?v=-gWm-3zJS2U&list=PLWtSipmftM8qbtfj2WkoQ7Z9ZrhCl6rPz)
+- https://codeforces.com/blog/entry/95447
 
 # Table of Content
 > The moon besides the topic indicates difficulty.\
