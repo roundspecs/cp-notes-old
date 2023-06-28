@@ -25,6 +25,8 @@ Here are some tips for you:
   - And technically, proofs are all we know. Here is a quote I read in a book:
     > The statements that we have proved are called theorems. And the collection of all the theorems about a topic is what we know about that topic.
 - Learn the ins and outs of Algorithms and Data Structures. You might have the temptation to use algorithms and data structures as a black box that does what you want it to do, but you have no clue how it works. Yes, this strategy surprisingly works and you will be able to go a long way without learning how vector, queue or stack works behind the scene, but you will have a better understanding of when you use which algorithm or data structure if you know how they work.
+- During the contest, solve the problems as fast as you can. But after the contest, make sure to review the problems and try to actually learn from it. Note down the relevant concepts and strategies. Try to generalize the solution so that if you are given a similar problem, you can solve that easily.
+- Don't ask for help
 
 ## Skill 2: Implementing algorithm
 For this you need good programming skils. Here are a few tips:
