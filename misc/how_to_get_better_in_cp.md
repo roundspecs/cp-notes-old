@@ -1,16 +1,8 @@
 # How to get better in CP
-Solving a problem in CP requires two skills:
-1. [Designing algorithm](#1-designing-algorithm)
-2. [Implementing algorithm](#2-implementing-algorithm)
 
-So, if you want to get better at CP, you have to work on these two skills.
-
-## Why is CP difficult
-The reason why CP is fun is the same reason why CP seems difficult to many. Its easy to solve problems that are similar to problems you have solved before. But the main goal of CP is to **invent new solutions** rather than solving it from memory. This is why CP seem difficult: you will have to struggle to come up with solution. And this, is what makes CP fun.
-
-## The most imporant advice
-Don't start typing code before solving the problem on paper.\
-More: [The Blank Screen (Think Like a Programmer)](https://www.youtube.com/watch?v=4Gsy27337-g&list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0&index=3&pp=iAQB)
+- Its easy to solve problems that are similar to the problems you have solved before, because you can solve it from memory. But always keep in mind that the main goal of CP is to **invent new solutions** rather than solving it from memory. 
+- Don't start typing code before solving the problem on paper.\
+  More: [The Blank Screen (Think Like a Programmer)](https://www.youtube.com/watch?v=4Gsy27337-g&list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0&index=3&pp=iAQB)
 
 ## Skill 1: Designing algorithm
 This is the part where you come up with a solution, and this is where you spend most of your time.\
